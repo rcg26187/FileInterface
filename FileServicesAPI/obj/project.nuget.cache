@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XAdUqLclEkgXhB28f0tv95Uu1HtI+u9Gbv2sm7DHK62ITgXd9TNO/WGeJ/zM8Ilkzc4kmTHHeG8rHarqYVnv9g==",
+  "success": true,
+  "projectFilePath": "/home/rgreen/source/FileInterface/FileServicesAPI/FileServicesAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/rgreen/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/rgreen/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/rgreen/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/rgreen/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/rgreen/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/rgreen/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
